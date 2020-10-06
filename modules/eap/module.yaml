@@ -15,7 +15,7 @@ modules:
           - name: dynamic-resources
           - name: jboss.container.eap.s2i.bash
           - name: jboss.container.java.jvm.bash
-          - name: jboss.container.jolokia.bash
+          - name: jboss.container.jolokia
           - name: jboss.container.wildfly.standalone-conf.java
           - name: jboss.container.wildfly.standalone-conf.jolokia
           - name: os-eap7-ping
