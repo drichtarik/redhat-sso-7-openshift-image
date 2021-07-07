@@ -9,4 +9,4 @@ artifacts:
     #     https://docs.cekit.io/en/latest/descriptor/image.html#path-artifacts
     # to avoid the need to specify (the frequently changing) md5sum of server overlay Zip archive
     - name: rh-sso-overlay.zip
-      path: /tmp/artifacts
+      path: rh-sso-overlay.zip
