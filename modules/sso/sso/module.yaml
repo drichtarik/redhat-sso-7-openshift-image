@@ -8,5 +8,5 @@ artifacts:
     # KEYCLOAK-18648 - Use CEKit's path based artifact for keycloak-server-overlay.zip:
     #     https://docs.cekit.io/en/latest/descriptor/image.html#path-artifacts
     # to avoid the need to specify (the frequently changing) md5sum of server overlay Zip archive
-    - name: rh-sso-overlay.zip
-      path: rh-sso-overlay.zip
+    - md5: 402024028128ea6c1c85ee4bdefb1acb
+      name: rh-sso-server-overlay.zip
